@@ -7,5 +7,5 @@ createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <FirstStepsApp></FirstStepsApp>
     {/* <MyAwesomeApp></MyAwesomeApp> */}
-  </StrictMode>
+  </StrictMode>,
 );
